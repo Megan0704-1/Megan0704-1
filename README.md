@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Megan Kuo.
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Science, Data Science and Quantitative Finance.
 - 📫 How to reach me:
 -       e-mail: lichenh2012@gmail.com
